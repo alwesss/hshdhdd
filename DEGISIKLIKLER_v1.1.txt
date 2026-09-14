@@ -1,0 +1,7 @@
+v1.1
+- Debug/staging/QA paket siniri kaldirildi.
+- Varsayilan hedef paket com.haflla.soulu yapildi.
+- Arayuzdeki test/QA ifadeleri kaldirildi.
+- Baslat dugmesi OTOMASYONU BASLAT olarak degistirildi.
+- 60 dakikalik profil bazli tekrar engeli korunuyor.
+- Kisa/ortusmeli kaydirma ve durum makinesi korunuyor.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Soyo Mesaj Yardimcisi</string>
+    <string name="service_name">Soyo Mesaj Yardimcisi</string>
+    <string name="service_desc">SOYO arayuzunde onerilen profilleri sirayla acar ve ayarlanan mesaji otomatik gonderir.</string>
+</resources>
